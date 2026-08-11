@@ -2,7 +2,7 @@
 
 
 
-Signal-based enrichment engine that identifies companies with high PR throughput and merge bottlenecks — the exact DevEx pain points Aviator's MergeQueue solves.
+Signal-based enrichment engine that identifies companies with high PR throughput and merge bottlenecks, the exact DevEx pain points Aviator's MergeQueue solves.
 
 
 
@@ -51,5 +51,5 @@ Output lands in `output/aviator\_enrichment.csv`
 WHY THIS ACTUALLY MATTERS?
 
 
-Instead of generic outreach, this pipeline finds accounts where the data says they have the problem. 1000+ PRs/month, 25+ hour merge times, 150+ contributors hitting the same repos — those are MergeQueue conversations waiting to happen.
+Instead of generic outreach, this pipeline finds accounts where the data says they have the problem. 1000+ PRs/month, 25+ hour merge times, 150+ contributors hitting the same repos, those are MergeQueue conversations waiting to happen.
 
