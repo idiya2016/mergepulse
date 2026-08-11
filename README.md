@@ -1,4 +1,4 @@
-\# Aviator Intelligence Agent
+\# MergePulse Intelligence Agent
 
 
 
