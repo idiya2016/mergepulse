@@ -1,0 +1,7 @@
+
+.env
+output/
+__pycache__/
+*.pyc
+debug_graphql.py
+test_github.py
